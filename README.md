@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankit Bajaj</h1>
 <h3 align="center">software professional with a strong focus on automation testing. With a passion for ensuring top-notch software quality, I strive to automate testing processes, streamline workflows, and enhance product reliability. I have extensive experience in designing and implementing robust test frameworks, developing efficient test scripts, and executing comprehensive test plans.</h3>
 
+<img align = "right" alt ="coding" width ="400" src= "![image](https://github.com/ankit5587/ankit5587/assets/9668739/b054a80c-5193-480a-a498-342fd8f3b82a)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit5587&label=Profile%20views&color=0e75b6&style=flat" alt="ankit5587" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit5587" alt="ankit5587" /></a> </p>
