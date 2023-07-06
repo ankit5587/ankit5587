@@ -1,28 +1,36 @@
-Welcome to My GitHub Profile!
-About Me
-I am a software professional with a strong focus on automation testing. With a passion for ensuring top-notch software quality, I strive to automate testing processes, streamline workflows, and enhance product reliability. I have extensive experience in designing and implementing robust test frameworks, developing efficient test scripts, and executing comprehensive test plans.
+<h1 align="center">Hi 👋, I'm Ankit Bajaj</h1>
+<h3 align="center">software professional with a strong focus on automation testing. With a passion for ensuring top-notch software quality, I strive to automate testing processes, streamline workflows, and enhance product reliability. I have extensive experience in designing and implementing robust test frameworks, developing efficient test scripts, and executing comprehensive test plans.</h3>
 
-Skills
-Test Automation: Selenium, Appium, JUnit
-Quality Assurance: Test Planning, Test Case Design, Defect Tracking
-Continuous Integration/Deployment: Jenkins, GitLab
-Collaboration: Cross-functional teamwork, Problem-solving
-Projects
-Here are a few notable projects I've worked on:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit5587&label=Profile%20views&color=0e75b6&style=flat" alt="ankit5587" /> </p>
 
-Automated Test Framework: Developed a scalable and modular test framework using Selenium, allowing for efficient test case execution and maintenance.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit5587" alt="ankit5587" /></a> </p>
 
-Mobile App Testing Suite: Designed and implemented an automated testing suite using Appium, ensuring seamless mobile app functionality across multiple platforms.
+<p align="left"> <a href="https://twitter.com/ankitbajaj1008" target="blank"><img src="https://img.shields.io/twitter/follow/ankitbajaj1008?logo=twitter&style=for-the-badge" alt="ankitbajaj1008" /></a> </p>
 
-CI/CD Integration: Integrated test automation with Jenkins and GitLab pipelines, enabling continuous testing and delivery for faster and more reliable software releases.
+- 🌱 I’m currently learning **playwright, Cypress**
 
-Bug Tracking System: Developed a custom bug tracking system to streamline defect management, improving communication and collaboration among team members.
+- 👨‍💻 All of my projects are available at [https://www.ankitbajaj.com](https://www.ankitbajaj.com)
 
-Interests
-Exploring new automation tools and technologies
-Contributing to open source projects
-Continuous learning and professional development
-Contact Me
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at [your email address] or connect with me on LinkedIn [your LinkedIn profile URL].
+- 📝 I regularly write articles on [https://ankitbajaj.hashnode.dev/](https://ankitbajaj.hashnode.dev/)
 
-Let's connect, collaborate, and raise the bar for software quality together! 🚀
+- 💬 Ask me about **UI Automation, API test automation**
+
+- 📫 How to reach me **ankitbajaj1008@gmail.com**
+
+- 📄 Know about my experiences [https://www.ankitbajaj.com/resume](https://www.ankitbajaj.com/resume)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ankitbajaj1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitbajaj1008" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankitbajaj1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitbajaj1008" height="30" width="40" /></a>
+<a href="https://fb.com/ankit5587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit5587" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit5587&show_icons=true&locale=en&layout=compact" alt="ankit5587" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit5587&show_icons=true&locale=en" alt="ankit5587" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit5587&" alt="ankit5587" /></p>
