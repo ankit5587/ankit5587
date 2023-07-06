@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit5587" alt="ankit5587" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ankitbajaj1008" target="blank"><img src="https://img.shields.io/twitter/follow/ankitbajaj1008?logo=twitter&style=for-the-badge" alt="ankitbajaj1008" /></a> </p>
 
 - 🌱 I’m currently learning **playwright, Cypress**
 
