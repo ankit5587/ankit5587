@@ -1,3 +1,4 @@
+![logo](https://github.com/ankit5587/ankit5587/blob/main/Ankit_banner.png)
 <h1 align="center">Hi 👋, I'm Ankit Bajaj</h1>
 <h3 align="center">software professional with a strong focus on automation testing. With a passion for ensuring top-notch software quality, I strive to automate testing processes, streamline workflows, and enhance product reliability. I have extensive experience in designing and implementing robust test frameworks, developing efficient test scripts, and executing comprehensive test plans.</h3>
 
